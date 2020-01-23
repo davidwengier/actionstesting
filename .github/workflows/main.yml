@@ -12,6 +12,6 @@ jobs:
     
     steps:
       - name: Notify
-        uses: davidwengier/PostAdaptiveCard@v0.2.0
+        uses: davidwengier/PostAdaptiveCard@v0.3.0
         with:
           webhook-uri: https://outlook.office.com/webhook/4ba7372f-2799-4677-89f0-7a1aaea3706c@72f988bf-86f1-41af-91ab-2d7cd011db47/IncomingWebhook/1912d7d944fc4381890ed6f9f680a07e/9dbc0cfc-eab3-42c9-838a-4879bef6875e
